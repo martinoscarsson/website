@@ -4,6 +4,7 @@ project:
 website:
   title: "Martin Oscarsson"
   navbar:
+    pinned: true
     background: white
     search: false
     left:

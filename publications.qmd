@@ -1,3 +1,21 @@
 ---
 title: "Publications"
 ---
+
+Peer-reviewed publications:
+
+López-Pinar, C., Selaskowski, B., Schulze, M., **Oscarsson, M.**, Fenollar-Cortés, J., Sibley, M. H., Philipsen, A., & Hirvikoski, T. (2026). Cognitive behavioral therapy effects on global functioning, domain-specific functioning, and quality of life in adult ADHD: A comprehensive meta-analysis. *Behaviour Research and Therapy, 201*, 105026. [https://doi.org/10.1016/j.brat.2026.105026](https://doi.org/10.1016/j.brat.2026.105026)
+
+**Oscarsson, M.**, Hammarbäck, S., Blom Wiberg, K., Rozental, A., Ginsberg, Y., Carlbring, P., Andersson, G., & Jönsson, F. (2025). Web-based stress management for working adults with attention-deficit/hyperactivity disorder (ADHD): Single-arm, open pilot trial. *JMIR Formative Research, 9*, e66388. [https://doi.org/10.2196/66388](https://doi.org/10.2196/66388)
+
+Najström, M., **Oscarsson, M.**, Ljunggren, I., & Ramnerö, J. (2025). Comparing self-assessment and instructor ratings: A study on communication and interviewing skills in psychology student training. *BMC Medical Education, 25*(1), 219. [https://doi.org/10.1186/s12909-025-06783-x](https://doi.org/10.1186/s12909-025-06783-x)
+
+Forsström, D., **Oscarsson, M.**, Buhrman, M., & Rozental, A. (2023). A study protocol of a randomized controlled study of internet-based cognitive behavioral therapy for adult attention deficit hyperactivity disorder. *Internet Interventions, 33*, 100652. [https://doi.org/10.1016/j.invent.2023.100652](https://doi.org/10.1016/j.invent.2023.100652)
+
+Hagberg, T., Manhem, P., **Oscarsson, M.**, Michel, F., Andersson, G., & Carlbring, P. (2023). Efficacy of transdiagnostic cognitive-behavioral therapy for assertiveness: A randomized controlled trial. *Internet Interventions, 32*, 100629. [https://doi.org/10.1016/j.invent.2023.100629](https://doi.org/10.1016/j.invent.2023.100629)
+
+**Oscarsson, M.**, Nelson, M., Rozental, A., Ginsberg, Y., Carlbring, P., & Jönsson, F. (2022). Stress and work-related mental illness among working adults with ADHD: A qualitative study. *BMC Psychiatry, 22*(1), 751. [https://doi.org/10.1186/s12888-022-04409-w](https://doi.org/10.1186/s12888-022-04409-w)
+
+Berg, I., Hovne, V., Carlbring, P., Bernhard-Oettel, C., **Oscarsson, M.**, Mechler, J., Lindqvist, K., Topooco, N., Andersson, G., & Philips, B. (2022). “Good job!”: Therapists’ encouragement, affirmation, and personal address in internet-based cognitive behavior therapy for adolescents with depression. *Internet Interventions, 30*, 100592. [https://doi.org/10.1016/j.invent.2022.100592](https://doi.org/10.1016/j.invent.2022.100592)
+
+**Oscarsson, M.**, Carlbring, P., Andersson, G., & Rozental, A. (2020). A large-scale experiment on New Year’s resolutions: Approach-oriented goals are more successful than avoidance-oriented goals. *PLOS ONE, 15*(12), e0234097. [https://doi.org/10.1371/journal.pone.0234097](https://doi.org/10.1371/journal.pone.0234097)

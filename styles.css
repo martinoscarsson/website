@@ -1,21 +1,39 @@
+@import url("https://fonts.googleapis.com/css2?family=Source+Serif+4:wght@500&display=swap");
+
+:root {
+  --nav-left: 2rem;
+  --content-left: 3.15rem;
+}
+
 body {
-  font-family: Arial, Helvetica, sans-serif;
+  margin: 0;
+  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Helvetica, Arial, sans-serif;
   color: #111;
   background: #fff;
+  font-size: 1.05rem;
+  line-height: 1.55;
+}
+
+#quarto-content {
+  display: block !important;
+  min-height: 0 !important;
 }
 
 main.content {
-  max-width: 760px;
-  margin-left: 8vw !important;
-  margin-right: auto !important;
-  padding: 4rem 1.5rem 6rem;
+  width: min(680px, 80vw) !important;
+  margin-left: var(--content-left) !important;
+  margin-right: 0 !important;
+  padding: 2.75rem 0 0;
 }
 
 .page-columns {
   justify-content: start;
 }
 
-h1, h2, h3 {
+h1,
+h2,
+h3 {
+  font-family: inherit;
   font-weight: 500;
 }
 
@@ -25,26 +43,45 @@ a {
   text-underline-offset: 0.15em;
 }
 
-#quarto-content {
-  display: block !important;
-}
-
-main.content {
-  width: min(760px, 80vw) !important;
-  margin-left: 2rem !important;
-  margin-right: 0 !important;
-}
-
 .navbar {
   border-bottom: none;
   box-shadow: none;
+  padding-top: 1.25rem;
+  padding-bottom: 0.5rem;
+}
+
+.navbar > .container-fluid {
+  width: 100% !important;
+  max-width: none !important;
+  margin: 0 !important;
+  padding-left: var(--nav-left) !important;
+  padding-right: 2rem !important;
 }
 
 .navbar-brand {
   color: #111 !important;
+  font-family: "Source Serif 4", serif;
   font-weight: 500;
+  font-size: 1.55rem;
+  letter-spacing: -0.01em;
 }
 
 .navbar-nav .nav-link {
   color: #111;
+  font-size: 1rem;
+  padding-left: 0.8rem !important;
+  padding-right: 0.8rem !important;
+}
+
+@media (max-width: 768px) {
+  main.content {
+    width: auto !important;
+    margin-left: 3.15rem !important;
+    margin-right: 3.15rem !important;
+    padding-top: 2.5rem;
+  }
+}
+
+#title-block-header {
+  display: none;
 }
