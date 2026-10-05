@@ -5,8 +5,9 @@ website:
   title: "Martin Oscarsson"
   navbar:
     pinned: true
-    background: white
+    background: "#f7f5ef"
     search: false
+
     left:
       - href: publications.qmd
         text: Publications
@@ -15,6 +16,36 @@ website:
       - href: press.qmd
         text: Press
 
+    right:
+      - text: '{{< iconify simple-icons:github aria-hidden="true" >}}'
+        href: https://github.com/martinoscarsson
+        aria-label: GitHub
+        target: _blank
+
+      - text: '{{< iconify simple-icons:linkedin aria-hidden="true" >}}'
+        href: https://www.linkedin.com/in/martinoscarsson
+        aria-label: LinkedIn
+        target: _blank
+
+      - text: '{{< iconify academicons:researchgate aria-hidden="true" >}}'
+        href: https://www.researchgate.net/profile/Martin-Oscarsson-2
+        aria-label: ResearchGate
+        target: _blank
+
+      - text: '{{< iconify simple-icons:googlescholar aria-hidden="true" >}}'
+        href: https://scholar.google.se/citations?user=_9ftGVoAAAAJ
+        aria-label: Google Scholar
+        target: _blank
+
+      - text: '{{< iconify academicons:orcid aria-hidden="true" >}}'
+        href: https://orcid.org/0000-0002-8209-5351
+        aria-label: ORCID
+        target: _blank
+
+      - text: '{{< iconify bi:envelope aria-hidden="true" >}}'
+        href: mailto:martin.oscarsson@ki.se
+        aria-label: Email
+
 format:
   html:
     theme:
@@ -22,3 +53,4 @@ format:
       - brand
     css: styles.css
     toc: false
+    link-external-newwindow: true
