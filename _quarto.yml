@@ -3,6 +3,7 @@ project:
 
 website:
   title: "Martin Oscarsson"
+  favicon: favicon.svg
   navbar:
     pinned: true
     background: "#f7f5ef"

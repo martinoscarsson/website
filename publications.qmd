@@ -2,6 +2,8 @@
 title: "Publications"
 ---
 
+::: {.long-page}
+
 Peer-reviewed publications:
 
 López-Pinar, C., Selaskowski, B., Schulze, M., **Oscarsson, M.**, Fenollar-Cortés, J., Sibley, M. H., Philipsen, A., & Hirvikoski, T. (2026). Cognitive behavioral therapy effects on global functioning, domain-specific functioning, and quality of life in adult ADHD: A comprehensive meta-analysis. *Behaviour Research and Therapy, 201*, 105026. [https://doi.org/10.1016/j.brat.2026.105026](https://doi.org/10.1016/j.brat.2026.105026)
@@ -19,3 +21,5 @@ Hagberg, T., Manhem, P., **Oscarsson, M.**, Michel, F., Andersson, G., & Carlbri
 Berg, I., Hovne, V., Carlbring, P., Bernhard-Oettel, C., **Oscarsson, M.**, Mechler, J., Lindqvist, K., Topooco, N., Andersson, G., & Philips, B. (2022). “Good job!”: Therapists’ encouragement, affirmation, and personal address in internet-based cognitive behavior therapy for adolescents with depression. *Internet Interventions, 30*, 100592. [https://doi.org/10.1016/j.invent.2022.100592](https://doi.org/10.1016/j.invent.2022.100592)
 
 **Oscarsson, M.**, Carlbring, P., Andersson, G., & Rozental, A. (2020). A large-scale experiment on New Year’s resolutions: Approach-oriented goals are more successful than avoidance-oriented goals. *PLOS ONE, 15*(12), e0234097. [https://doi.org/10.1371/journal.pone.0234097](https://doi.org/10.1371/journal.pone.0234097)
+
+:::
