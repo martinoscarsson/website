@@ -1,8 +1,7 @@
 ---
 title: "Conferences"
+body-classes: long-page
 ---
-
-::: {.long-page}
 
 Peer-reviewed conference contributions:
 
@@ -31,5 +30,3 @@ Mahdi, S., **Oscarsson, M.**, Åberg, A., Hammarlund, K., Tallert, C., Cloodt, H
 **Oscarsson, M.**, Nelson, M., Rozental, A., Ginsberg, Y., Carlbring, P., & Jönsson, F. (2022, May 23–24). *Developing an internet-based stress-management program for working adults with ADHD*. In *Abstracts from the 11th Swedish Congress on Internet Interventions (SweSRII)* (p. 9). Linköping University Electronic Press. [http://urn.kb.se/resolve?urn=urn:nbn:se:su:diva-208137](http://urn.kb.se/resolve?urn=urn:nbn:se:su:diva-208137)
 
 **Oscarsson, M.**, Rozental, A., Andersson, G., & Carlbring, P. (2017, November 3). *New Year’s resolutions: A large-scale randomized controlled trial*. In *Abstracts from the 9th Swedish Congress on Internet Interventions (SweSRII)* (p. 11). Linköping University Electronic Press. [http://urn.kb.se/resolve?urn=urn:nbn:se:su:diva-149191](http://urn.kb.se/resolve?urn=urn:nbn:se:su:diva-149191)
-
-:::

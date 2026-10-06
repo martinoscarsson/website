@@ -49,9 +49,7 @@ website:
 
 format:
   html:
-    theme:
-      - cosmo
-      - brand
+    theme: cosmo
     css: styles.css
     toc: false
     link-external-newwindow: true

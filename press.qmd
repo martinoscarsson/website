@@ -1,10 +1,9 @@
 ---
 title: "Press"
+body-classes: long-page
 ---
 
-::: {.long-page}
-
-Media appearances and interviews:
+**Media appearances and interviews:**
 
 [Discover Magazine, January 28, 2025](https://www.discovermagazine.com/mind/trouble-with-your-new-years-resolution-heres-how-to-make-it-achievable)
 
@@ -59,5 +58,3 @@ Media appearances and interviews:
 [Psykologifabriken, December 6, 2018](http://www.psykologifabriken.se/nyarslofte-lattare-med-ny-bok/)
 
 [Modern Psykologi, December 4, 2018](https://modernpsykologi.se/2018/11/19/hall-nyarsloftet-med-modern-psykologi/)
-
-:::
