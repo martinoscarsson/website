@@ -1,0 +1,16 @@
+---
+title: "Page not found"
+permalink: /404.html
+---
+
+The page you’re looking for no longer exists.
+
+You’ll be redirected to the homepage shortly.
+
+<script>
+setTimeout(() => {
+  window.location.href = "/";
+}, 2500);
+</script>
+
+[Go to the homepage now](/)
