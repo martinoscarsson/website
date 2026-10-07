@@ -1,9 +1,10 @@
 ---
 title: "Press"
 body-classes: long-page
+description: "Media appearances and interviews with Martin Oscarsson."
 ---
 
-**Media appearances and interviews:**
+Media appearances and interviews:
 
 [Discover Magazine, January 28, 2025](https://www.discovermagazine.com/mind/trouble-with-your-new-years-resolution-heres-how-to-make-it-achievable)
 

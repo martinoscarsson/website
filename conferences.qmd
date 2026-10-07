@@ -1,5 +1,6 @@
 ---
 title: "Conferences"
+description: "Conference presentations and posters by Martin Oscarsson."
 body-classes: long-page
 ---
 

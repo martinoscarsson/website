@@ -3,7 +3,10 @@ project:
 
 website:
   title: "Martin Oscarsson"
+  site-url: https://martinoscarsson.com
+  description: "Personal academic website of Martin Oscarsson, licensed psychologist and postdoctoral researcher at Karolinska Institutet."
   favicon: favicon.svg
+  open-graph: true
   navbar:
     pinned: true
     background: "#f7f5ef"
